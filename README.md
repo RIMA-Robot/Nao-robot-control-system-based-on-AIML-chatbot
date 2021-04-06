@@ -62,6 +62,10 @@ http://doc.aldebaran.com/2-1/software/webots/webots_index.html#getting-started
 
 https://github.com/PierreJac/Project-NAO-Control
 
+# 舞蹈下载
+
+https://funlab.nd.edu/the-nao-base/special-movements/
+
 # 相关研究
 
 ## OpenRoberta
