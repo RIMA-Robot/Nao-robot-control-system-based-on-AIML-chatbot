@@ -23,12 +23,17 @@ http://doc.aldebaran.com/2-8/index_dev_guide.html
 
 ## Choregraphe盒子编程
 可视化编程教程
+
 https://www.bilibili.com/video/BV18s411B7cN?p=7&spm_id_from=pageDriver
+
 其实很不方便，时间轴动作难以使用。除非用来编舞等过于复杂的持续动作规划。复杂的连接线也许让人眼花缭乱。计算机程序员不建议使用，仅仅用于测试。
 ## Choregraphe盒子中内嵌python代码
 有没有感觉和arduino和unity3d相似啊，这些触发式的程序大同小异。所以有句话叫if语句能完成所有的编程语句。
+
 ![QQ截图20210406124135](QQ截图20210406124135.png)
+
 http://doc.aldebaran.com/2-8/getting_started/helloworld_choregraphe_script.html
+
 http://doc.aldebaran.com/2-1/software/choregraphe/objects/python_script.html
 
 
@@ -38,6 +43,7 @@ http://doc.aldebaran.com/2-1/software/choregraphe/objects/python_script.html
 http://doc.aldebaran.com/2-1/naoqi/audio/altexttospeech-tuto.html
 ### 动作运动
 http://doc.aldebaran.com/2-1/dev/python/examples/motion/index.html
+
 似乎NAO自带了动作防止摔系统限制了输入动作序列的执行。
 
 # 模拟器
