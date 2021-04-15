@@ -70,7 +70,9 @@ https://funlab.nd.edu/the-nao-base/special-movements/
 
 ## OpenRoberta
 
-图形化编程输出python写入NAO机器人https://github.com/OpenRoberta?page=1
+图形化编程输出python写入NAO机器人
+
+https://github.com/OpenRoberta?page=1
 
 使用Open Roberta Connector建立OpenRoberta编辑器网页和本地机器人的连接，不要手动输入IP地址和端口，点击scan自动检测。因为外网出口IP和本地局域网不一样，尚不知道真正IP和端口。
 # 后记
